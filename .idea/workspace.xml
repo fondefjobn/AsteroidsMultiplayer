@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:development" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1be34c7f-2a4c-4b7f-9f4f-a1d5c77cf3c7" name="Default Changelist" comment="javadoc">
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/Asteroids.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/GameUpdater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/PlayerKeyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/MenuCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/MenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/MenuItemAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/MenuItemCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/MenuMouseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/menu_commands/HighScoresCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/menu_commands/HostGameCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/menu_commands/JoinGameCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/menu_commands/QuitCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/control/menu/menu_commands/SpectateGameCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/game_observer/GameUpdateListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/game_observer/ObservableGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/GameServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/game/Asteroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/game/AsteroidSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/game/Bullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/game/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/game/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/game/Spaceship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/online/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/online/Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/online/PacketHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/model/online/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/util/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/util/PolarCoordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/view/AsteroidsFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/view/AsteroidsPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/view/view_models/AsteroidViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/view/view_models/BulletViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/view/view_models/GameObjectViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aoop/asteroids/view/view_models/SpaceshipViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/AsteroidSizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/AsteroidTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/BulletTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/GameObjectTest$1GameObjectImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/GameObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/GameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/model/game/SpaceshipTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/aoop/asteroids/util/PolarCoordinateTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/rug-advoop/2020_Team_073" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1inECd4zwQ4BIdItcbV8KrAsj4f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.github.weisj.darkmode.DarkModeConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="aoop.asteroids.util" />
+      <recent name="aoop.asteroids.model.game" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Asteroids" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aoop.asteroids.Asteroids" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aoop.asteroids.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="TestMain" type="Application" />
+      <toRun name="Asteroids" type="Application" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Asteroids" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1be34c7f-2a4c-4b7f-9f4f-a1d5c77cf3c7" name="Default Changelist" comment="" />
+      <created>1602534837297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602534837297</updated>
+      <workItem from="1602534843910" duration="321000" />
+      <workItem from="1602535327746" duration="86765000" />
+      <workItem from="1603709028027" duration="34625000" />
+      <workItem from="1603842809829" duration="364000" />
+      <workItem from="1603843283838" duration="43234000" />
+      <workItem from="1603920588638" duration="1572000" />
+      <workItem from="1603922697065" duration="2724000" />
+      <workItem from="1604665314958" duration="459000" />
+      <workItem from="1604665801461" duration="230000" />
+      <workItem from="1604666063896" duration="2353000" />
+      <workItem from="1604669880805" duration="1587000" />
+      <workItem from="1604680239163" duration="411000" />
+      <workItem from="1604680699936" duration="1307000" />
+    </task>
+    <task id="LOCAL-00001" summary="menu, game multiplayer">
+      <created>1603140068019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603140068019</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactoring">
+      <created>1603142039044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603142039044</updated>
+    </task>
+    <task id="LOCAL-00003" summary="multi1">
+      <created>1603879578088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603879578089</updated>
+    </task>
+    <task id="LOCAL-00004" summary="javadoc">
+      <created>1603910871853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603910871853</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final program">
+      <created>1603924819491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603924819491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="development" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="menu, game multiplayer" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="multi1" />
+    <MESSAGE value="javadoc" />
+    <MESSAGE value="final program" />
+    <option name="LAST_COMMIT_MESSAGE" value="final program" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1604666355605">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1604666355605" />
+    <state x="83" y="298" key="#SQL_Dialects" timestamp="1603880243056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="83" y="298" key="#SQL_Dialects/0.23.1440.877@0.23.1440.877" timestamp="1603880243056" />
+    <state x="127" y="56" width="1071" height="844" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604666550485">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="127" y="56" width="1071" height="844" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604666550485" />
+    <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1603924263938">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1603924263938" />
+    <state x="36" y="393" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603100691336">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="36" y="393" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1603100691336" />
+    <state x="480" y="337" width="479" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603919633627">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="480" y="337" width="479" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1603919633627" />
+    <state x="209" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603910058906">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="209" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1603910058906" />
+    <state x="466" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603924758671">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="466" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1603924758671" />
+    <state width="1398" height="100" key="GridCell.Tab.0.bottom" timestamp="1604679899207">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="100" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604679899207" />
+    <state width="1398" height="100" key="GridCell.Tab.0.center" timestamp="1604679899205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="100" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604679899205" />
+    <state width="1398" height="100" key="GridCell.Tab.0.left" timestamp="1604679899205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="100" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604679899205" />
+    <state width="1398" height="100" key="GridCell.Tab.0.right" timestamp="1604679899206">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="100" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604679899206" />
+    <state width="1398" height="335" key="GridCell.Tab.1.bottom" timestamp="1604668842252">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604668842252" />
+    <state width="1398" height="335" key="GridCell.Tab.1.center" timestamp="1604668842251">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1604668842251" />
+    <state width="1398" height="335" key="GridCell.Tab.1.left" timestamp="1604668842250">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1604668842250" />
+    <state width="1398" height="335" key="GridCell.Tab.1.right" timestamp="1604668842252">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1604668842252" />
+    <state x="307" y="202" key="IDE.errors.dialog" timestamp="1603899308584">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="307" y="202" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" timestamp="1603899308584" />
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog" timestamp="1603898103220">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1603898103220" />
+    <state x="375" y="188" width="1065" height="587" key="NewModule_or_Project.wizard" timestamp="1604666269169">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="375" y="188" width="1065" height="587" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1604666269169" />
+    <state x="342" y="63" key="SettingsEditor" timestamp="1604680843052">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="342" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604680843052" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1603140118104">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1603140118104" />
+    <state x="581" y="40" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603917747124">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="581" y="40" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1603917747124" />
+    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603139936334">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1603139936334" />
+    <state x="221" y="204" width="998" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603106889329">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="204" width="998" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.877@0.23.1440.877" timestamp="1603106889329" />
+    <state x="72" y="106" width="1305" height="674" key="new project wizard" timestamp="1604665720459">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="72" y="106" width="1305" height="674" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1604665720459" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1604666534284">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1604666534284" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
